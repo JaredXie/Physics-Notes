@@ -119,7 +119,7 @@ General Physics provides the foundation for more advanced study.
   - Waves
   - Introductory special relativity
 
-- **Thermal Physics**
+- [**Thermal Physics**](./Thermodynamics_n_Statistics.md)
   - Temperature
   - Heat
   - Thermodynamics
