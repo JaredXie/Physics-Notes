@@ -134,7 +134,7 @@ General Physics provides the foundation for more advanced study.
 
 - **Optics**
   - Geometrical optics
-  - Physical optics
+  - [Physical optics](./Optics_Electromagnetism.md)
   - [Interference](./Optics_Interference.md)
   - Diffraction
   - Polarisation
