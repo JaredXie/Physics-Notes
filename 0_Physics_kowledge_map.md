@@ -163,7 +163,7 @@ The core theoretical Physics courses are often known as the four major mechanics
   - Radiation
   - Relativistic electrodynamics
 
-- **Quantum Mechanics**
+- [**Quantum Mechanics**](./Quantum_Mechanics.md)
   - Wave functions
   - Schrödinger equation
   - Operators
