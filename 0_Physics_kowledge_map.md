@@ -157,7 +157,7 @@ The core theoretical Physics courses are often known as the four major mechanics
   - Conservation laws
   - Variational principles
 
-- **Electrodynamics**
+- [**Electrodynamics**](./Electrodynamics.md)
   - Maxwell's equations
   - Electromagnetic waves
   - Radiation
