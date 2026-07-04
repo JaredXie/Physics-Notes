@@ -181,7 +181,7 @@ The core theoretical Physics courses are often known as the four major mechanics
 
 - Laser Principles
 - Physical Optics
-- [Semiconductor Physics](.\Semiconductor_Physics.md)
+- [Semiconductor Physics](./Semiconductor_Physics.md)
 
 ---
 
