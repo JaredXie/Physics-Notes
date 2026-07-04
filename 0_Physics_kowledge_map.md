@@ -170,7 +170,7 @@ The core theoretical Physics courses are often known as the four major mechanics
   - Angular momentum
   - Perturbation theory
 
-- **Thermodynamics and Statistical Physics**
+- [**Thermodynamics and Statistical Physics**](./Thermodynamics_n_Statistics.md)
   - Laws of thermodynamics
   - Entropy
   - Ensembles
