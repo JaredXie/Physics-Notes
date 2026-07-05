@@ -282,7 +282,11 @@ Physics learning and research also require technical tools for data processing, 
   - Quantum chemistry simulation
 
 ---
+## 3.4 My research areas
+-Optical BICs
+-Teaching
 
+---
 ## 4. Reflection for Secondary Physics Teaching
 
 This knowledge map reminds me that school Physics is the beginning of a much larger Physics system.
