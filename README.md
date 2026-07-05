@@ -217,7 +217,6 @@ Experimental Physics develops practical research skills, measurement techniques,
 
 Physics learning and research also require technical tools for data processing, simulation, academic writing, and numerical modelling.
 
-### Common Tools
 
 - **Origin**
   - Data analysis
@@ -277,12 +276,16 @@ Physics learning and research also require technical tools for data processing, 
   - Quantum chemistry simulation
 
 ---
-## 3.4 My research areas
-- [Optical BICs](./Nanophotonics_BICs.md)
+## 4. My research interests
+- Nanophotonics
+  - [Optical BICs](./Nanophotonics_BICs.md)
+  - Metasurfaces
 - Teaching
+  - how to scaffold teaching using visualisation
+  - ... Still exploring
 
 ---
-## 4. Reflection for Secondary Physics Teaching
+## 5. Reflection for Secondary Physics Teaching
 
 This knowledge map reminds me that school Physics is the beginning of a much larger Physics system.
 
