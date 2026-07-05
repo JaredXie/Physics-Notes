@@ -1,6 +1,6 @@
 # Physics-Notes
 
-My intention in building this repository is to give a glance at the structure of physics, grounded in my understanding and learning pathway. It's been a long way since I jumped into studying education and science at the begining of 2018, across a wide endeavour and broad discipline. 
+My intention in building this repository is to give a glance at the structure of physics, grounded in my understanding and learning pathway. It's been a long way since I jumped into studying education and science in the mid of 2018, across a wide endeavour and broad discipline. 
 
 Adapted and detailing my thoughts from [“脑子里的物理学体系” by 哈嘞卤吖 on Zhihu](https://zhuanlan.zhihu.com/p/600949458), here I wrote the structure of physics conjured up during my learning pathway. It seems structured, though, not content or satisfactory for many reasons. I would like to still keep it this way out of my best effort so far until one day i decide to change it.
 
