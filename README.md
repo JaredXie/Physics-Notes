@@ -2,7 +2,7 @@
 
 My intention in building this repository is to give a glance at the structure of physics, grounded in my understanding and learning pathway. It's been a long way since I jumped into studying education and science in the mid of 2018, across a wide endeavour and broad discipline. 
 
-Adapted and detailing my thoughts from [“脑子里的物理学体系” by 哈嘞卤吖 on Zhihu](https://zhuanlan.zhihu.com/p/600949458), here I wrote the structure of physics conjured up during my learning pathway. It seems structured, though, not content or satisfactory for many reasons. I would like to still keep it this way out of my best effort so far until one day i decide to change it.
+Adapted and detailing my thoughts from [“脑子里的物理学体系” by 哈嘞卤吖 on Zhihu](https://zhuanlan.zhihu.com/p/600949458), here I write the structure of physics conjured up along my learning pathway. It seems structured, though, not content or satisfactory for many reasons. However, I would like to still keep it this way so far until one day decide to change it for a strong reason.
 
 # Physics Knowledge Map
 
@@ -105,11 +105,10 @@ Students begin to connect physical concepts with equations, models, experiments,
 
 University Physics develops from general Physics into theoretical Physics, experimental Physics, and technical research methods.
 
----
 
-## 3.1 Theoretical Knowledge
+### 3.1 Theoretical Knowledge
 
-### 3.1.1 General Physics
+#### 3.1.1 General Physics
 
 General Physics provides the foundation for more advanced study.
 
@@ -145,9 +144,8 @@ General Physics provides the foundation for more advanced study.
   - Quantum ideas
   - Nuclear phenomena
 
----
 
-### 3.1.2 Core Theoretical Physics
+#### 3.1.2 Core Theoretical Physics
 
 The core theoretical Physics courses are often known as the four major mechanics.
 
@@ -177,15 +175,14 @@ The core theoretical Physics courses are often known as the four major mechanics
   - Statistical distributions
   - Phase transitions
 
-### Supplementary Courses
+#### 3.1.3 Supplementary Courses
 
 - Laser Principles
 - Physical Optics
 - [Semiconductor Physics](./Semiconductor_Physics.md)
 
----
 
-### 3.1.3 Advanced Theoretical Physics
+#### 3.1.4 Advanced Theoretical Physics
 
 Advanced Physics courses focus on specialised and research-oriented areas.
 
@@ -202,9 +199,8 @@ Advanced Physics courses focus on specialised and research-oriented areas.
 - Lie Groups
 - Other specialised topics
 
----
 
-## 3.2 Experimental Physics
+### 3.2 Experimental Physics
 
 Experimental Physics develops practical research skills, measurement techniques, data analysis, and the ability to connect theory with evidence.
 
@@ -216,9 +212,8 @@ Experimental Physics develops practical research skills, measurement techniques,
 - Thin Film Physics and Technology
 - Specialised Experimental Physics Courses
 
----
 
-## 3.3 Technical Tools and Research Skills
+### 3.3 Technical Tools and Research Skills
 
 Physics learning and research also require technical tools for data processing, simulation, academic writing, and numerical modelling.
 
