@@ -283,8 +283,8 @@ Physics learning and research also require technical tools for data processing, 
 
 ---
 ## 3.4 My research areas
--Optical BICs
--Teaching
+- [Optical BICs](./Nanophotonics_BICs.md)
+- Teaching
 
 ---
 ## 4. Reflection for Secondary Physics Teaching
