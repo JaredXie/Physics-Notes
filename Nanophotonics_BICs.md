@@ -5,8 +5,8 @@ See the nice webpages
    - [The optical BICs in photonic structures](https://knifelees3.github.io/2026/04/19/E_%E7%89%A9%E7%90%86_BIC%20%E5%AD%A6%E4%B9%A0%E4%B9%8B%E4%BD%95%E4%B8%BA%E5%85%89%E5%AD%A6BIC/)
 
 Or their printouts
-  - [Quantum BICs](./uploaded_materials/ZaohuaTian_Web_QuantumBIC.pdf)
-  - [Optical BICs](./uploaded_materials/ZaohuaTian_Web_OpticalBIC.pdf)
+  - [Quantum BICs](./uploaded_materials/ZhaohuaTian_Web_QuantumBIC.pdf)
+  - [Optical BICs](./uploaded_materials/ZhaohuaTian_Web_OpticalBIC.pdf)
 
 ## My relative research
   - [Untrathin and tunable 25nm BIC metasurfaces](https://pubs.acs.org/doi/10.1021/acs.nanolett.4c04904)
