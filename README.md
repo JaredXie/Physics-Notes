@@ -281,8 +281,9 @@ Physics learning and research also require technical tools for data processing, 
   - [Optical BICs](./Nanophotonics_BICs.md)
   - [Metasurfaces](./Nanophotonics_Metasurfaces.md)
 - Teaching
-  - how to scaffold teaching using visualisation
-  - ... Still exploring
+  - How to scaffold students using visualisation technology
+  - How teaching practices and resources reflect the Australian Curriculum
+  - ...
 
 ---
 ## 5. Reflection for Secondary Physics Teaching
