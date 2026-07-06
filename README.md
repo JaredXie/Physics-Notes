@@ -279,7 +279,7 @@ Physics learning and research also require technical tools for data processing, 
 ## 4. My research interests
 - Nanophotonics
   - [Optical BICs](./Nanophotonics_BICs.md)
-  - [Metasurfaces](https://pubs.aip.org/aip/apl/article/123/24/240503/2929590/Dispersion-engineering-of-metalenses)
+  - [Metasurfaces](./Nanophotonics_Metasurfaces.md)
 - Teaching
   - how to scaffold teaching using visualisation
   - ... Still exploring
